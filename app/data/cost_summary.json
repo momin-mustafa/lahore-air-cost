@@ -1,0 +1,28 @@
+{
+  "population": 10842276,
+  "baseline_ncdlri_deaths_25plus": 73841,
+  "exposure_multiyear_ugm3": 123.6,
+  "exposure_latest_year": 2025,
+  "exposure_latest_ugm3": 121.1,
+  "vsl_pakistan_usd_central": 74793,
+  "usd_pkr": 277.0,
+  "headline_deaths_who_cf": 19709,
+  "headline_cost_pkr_bn_who_cf": 408.3,
+  "deaths_range": [
+    19041,
+    36597
+  ],
+  "cost_pkr_bn_range": [
+    257.5,
+    2060.0
+  ],
+  "world_bank_anchor_deaths_pakistan": 22000,
+  "gbd_national_pm25_deaths_pakistan": 157762,
+  "lahore_share_of_national_gbd": 0.125,
+  "params": {
+    "vsl_base_usd": 3830000,
+    "gni_pk": 1430.0,
+    "gni_oecd_base": 38000.0,
+    "elasticity": 1.2
+  }
+}

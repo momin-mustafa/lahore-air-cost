@@ -1,0 +1,7 @@
+# Streamlit Community Cloud reads THIS file (app/requirements.txt).
+# Minimal runtime deps — the app reads precomputed artifacts, no GEE/geo stack.
+streamlit==1.58.0
+pandas==2.3.3
+numpy==2.2.6
+plotly==6.8.0
+pyarrow==24.0.0

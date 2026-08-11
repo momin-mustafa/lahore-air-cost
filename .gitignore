@@ -1,11 +1,30 @@
+# Secrets — never commit
 .env
-*.json
-!package.json
+lahore-gis-*.json
+*service-account*.json
+
+# Planning files (not part of the public repo)
 GIS_plan.md
 execution.md
+KICKOFF_PROMPT.md
+
+# Large / raw data (data/sample/ IS committed)
 data/raw/
 data/processed/
+
+# Serialized models (models/metrics.json IS committed)
 models/*.pkl
+models/*.joblib
+
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.venv/
+
+# Quarto build output
+site/_site/
+site/.quarto/
+
+# OS
+.DS_Store

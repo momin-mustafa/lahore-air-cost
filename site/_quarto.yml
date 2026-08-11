@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "The Price of Lahore's Air"
+  description: "A satellite reconstruction of PM2.5 and its human and economic cost."
+  reader-mode: true
+  navbar:
+    right:
+      - text: "GitHub"
+        href: https://github.com/  # ← replace with the repo URL
+      - text: "Live app"
+        href: https://share.streamlit.io/  # ← replace with the deployed app URL
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    fig-cap-location: bottom
+    code-fold: true
+    smooth-scroll: true
+    css: styles.css
+
+# Publish with:  quarto publish gh-pages
