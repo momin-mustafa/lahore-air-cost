@@ -1,0 +1,23 @@
+{
+  "overall": {
+    "rmse": 0,
+    "mae": 0,
+    "r2": 0,
+    "n": 1380
+  },
+  "smog_season": {
+    "rmse": 0,
+    "mae": 0,
+    "r2": 0,
+    "n": 0
+  },
+  "rest_of_year": {
+    "rmse": 0,
+    "mae": 0,
+    "r2": 0,
+    "n": 0
+  },
+  "coverage_raw": 0.6072463768115942,
+  "coverage_calibrated": 0.9,
+  "conformal_adjustment_ugm3": 29.93372780274129
+}
