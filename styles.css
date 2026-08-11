@@ -1,0 +1,7 @@
+.quarto-title-block { margin-bottom: 1.5rem; }
+figure img { border: 1px solid #eee; border-radius: 4px; }
+.headline {
+  background: #fdf3e7; border-left: 4px solid #c0392b;
+  padding: 1rem 1.25rem; border-radius: 4px; margin: 1.25rem 0;
+}
+blockquote { color: #555; }
