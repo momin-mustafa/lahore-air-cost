@@ -15,8 +15,8 @@ with time-aware cross-validation; (2) reconstructs a continuous daily series;
 and (3) translates the pollution into attributable mortality and a rupee cost,
 with an interactive scenario tool.
 
-📄 **Article:** *(GitHub Pages URL — publish `site/` with `quarto publish gh-pages`)*
-· 🧮 **Live app:** *(Streamlit Community Cloud URL — see `app/README.md`)*
+📄 **Article:** <https://momin-mustafa.github.io/lahore-air-cost/>
+· 🧮 **Live app:** <https://lahore-air-cost.streamlit.app/>
 
 ## Headline results
 

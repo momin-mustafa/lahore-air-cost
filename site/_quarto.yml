@@ -9,9 +9,9 @@ website:
   navbar:
     right:
       - text: "GitHub"
-        href: https://github.com/  # ← replace with the repo URL
+        href: https://github.com/momin-mustafa/lahore-air-cost
       - text: "Live app"
-        href: https://share.streamlit.io/  # ← replace with the deployed app URL
+        href: https://lahore-air-cost.streamlit.app/
 
 format:
   html:
